@@ -21,19 +21,19 @@ body {
   font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
-header {
+.header {
   background: var(--secondary);
   padding: 30px 25px;
   border-bottom: 5px solid var(--primary);
 }
 
-header p {
+.header p {
   color: var(--tertiary);
   margin: 5px 0 20px;
   font-size: 2rem;
 }
 
-p,
+.p,
 li {
   font-size: 1.6rem;
 }
